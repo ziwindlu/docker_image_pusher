@@ -1,1 +1,2 @@
 library/mariadb:10.3
+ghcr.io/open-webui/open-webui:main
